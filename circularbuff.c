@@ -1,9 +1,6 @@
 /*
 
-Circular buffer del mezzodi' in Apple
-
-Original concept by Alessio Centazzo :)
-(senno' col cazzo che passi l'intervista)
+Circular 
 
 Nightcode by Nicola La Gloria
 
